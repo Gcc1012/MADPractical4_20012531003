@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical_4_ImplicitIntent</string>
+    <string name="text_1">Implicit Intent Example</string>
+    <string name="text_2">Open link</string>
+</resources>
